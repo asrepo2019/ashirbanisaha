@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Ashirbani Saha"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor, Department of Oncology"
+  location         : "Hamilton, Ontario, Canada"
+  employer         : "McMaster University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sahaa16@mcmaster.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
