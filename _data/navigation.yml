@@ -11,6 +11,9 @@ main:
     
   - title: "Awards and Honors"
     url: /portfolio/
+    
+  - title: "Open Positions"
+    url: /markdown/
         
   #- title: "Blog Posts"
   # url: /year-archive/
@@ -18,5 +21,4 @@ main:
   #- title: "CV"
   #  url: /cv/
     
-  - title: "Open Positions"
-    url: /markdown/
+  
