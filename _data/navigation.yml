@@ -1,16 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Team Members"
-    url: /TeamMembers/    
-
+ 
   - title: "Research"
     url: /Research/    
+
+  - title: "Publications"
+    url: /publications/
     
   - title: "Awards and Honors"
     url: /portfolio/
+
+  - title: "Team Members"
+    url: /TeamMembers/    
     
   - title: "Open Positions"
     url: /markdown/
