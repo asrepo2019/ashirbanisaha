@@ -9,12 +9,13 @@ main:
     
   - title: "Awards and Honors"
     url: /portfolio/
-
-  - title: "Team Members"
-    url: /TeamMembers/    
-    
+   
   - title: "Open Positions"
     url: /markdown/
+
+   - title: "Team Members"
+    url: /TeamMembers/    
+
         
   #- title: "Blog Posts"
   # url: /year-archive/
