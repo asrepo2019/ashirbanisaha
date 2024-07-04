@@ -13,8 +13,8 @@ main:
   - title: "Open Positions"
     url: /markdown/
 
-   - title: "Team Members"
-    url: /TeamMembers/    
+  #- title: "Team Members"
+  #  url: /TeamMembers/    
 
         
   #- title: "Blog Posts"
