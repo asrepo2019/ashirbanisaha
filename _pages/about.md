@@ -21,5 +21,6 @@ Summary of my training so far:
 I am trained in Electronics and Telecommunication Engineering (B. E., 2006) from the Indian Institute of Engineering, Science, and Technology, (IIEST), Shibpore, India. I worked for almost 2.5 years as a SAP consultant in PWC, India. 
 I did my graduate studies (M.A.Sc, 2010 and Ph.D., 2015) in the Department of Electrical and Computer Engineering, University of Windsor, Canada. Following several postdoctoral trainings at the University of Windsor (2015), Duke University (2015 - 2018), and Unity Health Toronto (2018-2021), I joined McMaster Oncology in 2021.
 It was during my postdoctoral training at Duke, I started to learn to work with medical data. 
-I continue to learn in my current position from all the resources that I can find and from the work that I perform. 
+
+I continue to learn in my current position from all the resources that I find relevant to my professional interests. 
 
