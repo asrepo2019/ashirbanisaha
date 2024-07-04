@@ -10,11 +10,11 @@ redirect_from:
 I am an Assistant Professor in the [Department of Oncology, Faculty of Health Sciences, McMaster University, Canada](https://oncology.healthsci.mcmaster.ca/). 
 I am the inaugural [BRIGHT Run](https://brightrun.ca/) Breast Cancer Learning Health System Chair at McMaster University. 
 
-I am Scientist at the [Escarpment Cancer Research Institute](https://ecri.mcmaster.ca/), Hamilton Health Sciences and McMaster university, Canada. I am an Affiliate Scientist at the CentRE for dAta science and digiTal hEalth [(CREATE)](https://createhealth.ai/), Hamilton Health Sciences.
+I am a Scientist at the [Escarpment Cancer Research Institute](https://ecri.mcmaster.ca/), Hamilton Health Sciences and McMaster university, Canada. I am an Affiliate Scientist at the CentRE for dAta science and digiTal hEalth [(CREATE)](https://createhealth.ai/), Hamilton Health Sciences.
 
 I hold associate memberships with the [School of Biomedical Engineering](https://www.eng.mcmaster.ca/msbe/) and the [Department of Computing and Software](https://www.eng.mcmaster.ca/cas/), Faculty of Engineering, McMaster University. 
 
-My research, learning, and teaching focus on Artificial Intelligence (AI) for Healthcare with an emphasis on advanced analytics related to Breast Cancer. While leading my own research projects, I collaborate with my colleagues and fellow researchers in topics that relate to advances in healthcare research propelled by AI.
+My research, learning, and teaching focus on Artificial Intelligence (AI) for Healthcare with an emphasis on advanced analytics related to Breast Cancer. While leading my own research projects, I collaborate with my colleagues and fellow researchers in a variety of topics that relate to advances in healthcare research propelled by AI.
 
 Summary of my training so far:
 ======
