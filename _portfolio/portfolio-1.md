@@ -1,7 +1,6 @@
 ---
 title: "Scholarships"
-excerpt:
-"*Senior Member, IEEE, since 2023
+excerpt: "*Senior Member, IEEE, since 2023
 *University of Windsor International Graduate (Doctoral) Excellence Scholarship
 *University of Windsor International Graduate (Doctoral) Student Scholarship
 *University of Windsor International Graduate (Masters) Excellence Scholarship
