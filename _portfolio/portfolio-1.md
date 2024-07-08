@@ -1,6 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Scholarships"
+<!---excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"-->
+excerpt:
+"*Senior Member, IEEE, since 2023
+*University of Windsor International Graduate (Doctoral) Excellence Scholarship
+*University of Windsor International Graduate (Doctoral) Student Scholarship
+*University of Windsor International Graduate (Masters) Excellence Scholarship
+*University of Windsor International Graduate (Masters) Student Scholarship
+*Merit Scholarship for final year in Bachelors of Engineering"
 collection: portfolio
 ---
 
