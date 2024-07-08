@@ -7,4 +7,4 @@ title: "Research Funding Support (as PI)"
 
 * New Frontiers in Research Fund – Exploration Competition, Canada, 2024 – 2026 
 
-* McMaster University Start-up Funds, 2021 - 2024 
+* Department of Oncology, McMaster University Start-up Funds, 2021 - 2024 
