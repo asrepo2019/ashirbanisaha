@@ -1,5 +1,5 @@
 ---
-title: "Scholarships"
+title: "Awards and Honors"
 ---
 * Senior Member, IEEE, since 2023
 * University of Windsor International Graduate (Doctoral) Excellence Scholarship, 2011 - 2014
