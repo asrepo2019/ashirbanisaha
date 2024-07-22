@@ -11,7 +11,7 @@ main:
     url: /portfolio/
    
   - title: "Open Positions"
-    url: /markdown/
+    url: /openpositions/
 
   #- title: "Team Members"
   #  url: /TeamMembers/    
