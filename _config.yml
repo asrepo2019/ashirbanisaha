@@ -218,6 +218,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  studentsras:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -288,6 +291,15 @@ defaults:
   - scope:
       path: ""
       type: openpositions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _studentsras
+  - scope:
+      path: ""
+      type: studentsras
     values:
       layout: single
       author_profile: true
