@@ -13,8 +13,8 @@ main:
   - title: "Open Positions"
     url: /openpositions/
 
-  #- title: "Team Members"
-  #  url: /TeamMembers/    
+  - title: "Students and Research Assistants"
+  #  url: /studentsras/    
 
         
   #- title: "Blog Posts"
