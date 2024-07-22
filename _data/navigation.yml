@@ -14,7 +14,7 @@ main:
     url: /openpositions/
 
   - title: "Students and Research Assistants"
-  #  url: /studentsras/    
+    url: /studentsras/    
 
         
   #- title: "Blog Posts"
