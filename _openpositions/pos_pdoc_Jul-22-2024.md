@@ -6,7 +6,7 @@ McMaster University is ranked among world's top universities and it ranks fourth
 We are looking for a Postodoctoral Fellow to participate in federally-funded research program focused on development of medical imaging applications and solutions based on recent progress in AI.
 
 
-**Qualifications:**
+**Qualifications:**  
 Following are the must-haves for this position
 * A highly motivated individual with a Ph.D. degree or close to the completion of a Ph.D with a dissertation/thesis focussed on developing deep learning-based applications/methodologies for medical imaging.
 * Experience with machine learning, computer vision, and image processing.
