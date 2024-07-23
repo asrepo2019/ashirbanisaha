@@ -13,13 +13,13 @@ We are looking for a Postodoctoral Fellow to participate in federally-funded res
 * At least two first-authored journal publications (or accepted for publication) in moderate to high impact-factored journals or good international conferences in medical imaging/deep learning/AI.
 * Good verbal and written communication skills.
 
-**Job description:**
+**Job description:**  
 The Postdoctoral Fellow will be required to apply his/her technical skills towards solving cutting-edge problems in AI for medical imaging with a goal of providing clinically relevant solutions. The Fellow will work in close collaboration with the PI, clinicians, and relevant researchers. 
 
-**Career development benefits:**
+**Career development benefits:**  
 McMaster University considers post-doctoral fellows to be an integral part of the University and its mission. The details of McMaster's postdoctoral policy can be found here (https://gs.mcmaster.ca/app/uploads/2019/11/postdocfellows_policy.pdf).
 
-**Applications Materials:**
+**Applications Materials:**  
 * A cover letter (upto 500 words) indicating why how would align with the qualifications for this position.
 * A CV (including all publications)
 * A Google Scholar profile link
