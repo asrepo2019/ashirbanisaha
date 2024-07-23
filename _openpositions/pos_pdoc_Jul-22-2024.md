@@ -7,6 +7,7 @@ We are looking for a Postodoctoral Fellow to participate in federally-funded res
 
 
 **Qualifications:**
+Following are the must-haves for this position
 * A highly motivated individual with a Ph.D. degree or close to the completion of a Ph.D with a dissertation/thesis focussed on developing deep learning-based applications/methodologies for medical imaging.
 * Experience with machine learning, computer vision, and image processing.
 * Proficient in computer programming and implementation/deployment of AI models.
@@ -36,6 +37,6 @@ McMaster University, Canada
 Phone - 1-905-527-2299 extn. 42718  
 Email: sahaa16@mcmaster.ca
 
-**Steps after application**
+**Steps after application**  
 * Only candidates short-listed for this position will be contacted for a presentation and interview.
 * There could be multiple interviews for the final selection.
