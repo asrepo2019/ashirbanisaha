@@ -18,13 +18,13 @@ Following are the must-haves for this position:<br>
 The Postdoctoral Fellow will be required to apply his/her technical skills towards solving cutting-edge problems in AI for medical imaging with a goal of providing clinically relevant solutions. The Fellow will work in close collaboration with the PI, clinicians, and relevant researchers. 
 
 **Career development benefits:**  
-McMaster University considers post-doctoral fellows to be an integral part of the University and its mission. The details of McMaster's postdoctoral policy can be found here (https://gs.mcmaster.ca/app/uploads/2019/11/postdocfellows_policy.pdf).
+McMaster University considers post-doctoral fellows to be an integral part of the University and its mission. The details of McMaster's postdoctoral policy can be found [here](https://gs.mcmaster.ca/app/uploads/2019/11/postdocfellows_policy.pdf).
 
 **Applications Materials:**<br>
 * A cover letter (upto 500 words) indicating why how would align with the qualifications for this position.
-* A CV (including all publications)
-* A Google Scholar profile link
-* Names and contact information of three referees
+* A CV (including all publications).
+* A Google Scholar profile link.
+* Names and contact information of three referees.
 
 The application materials and/or any additional questions regarding the position should be sent via e-mail bearing the subject line '\<Candidate Name-Year of PhD\>-as PDF-2024-25' to:
 
