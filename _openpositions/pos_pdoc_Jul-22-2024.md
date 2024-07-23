@@ -1,7 +1,7 @@
 ---
 title: "Opportunity for a Postdoctoral Fellow"
 ---
-**About us:**
+**About us:**  
 McMaster University is ranked among world's top universities and it ranks fourth in Canada. The Faculty of Health Sciences (FHS) at McMaster University is considered the birthplace of evidence-based medicine (EBM). According to the British Medical Journal, EBM is one of the most important medical advances in the past 150 years. The Department of Oncology in the FHS at McMaster are committed to performing research that makes a difference to people living with cancer.
 We are looking for a Postodoctoral Fellow to participate in federally-funded research program focused on development of medical imaging applications and solutions based on recent progress in AI.
 
@@ -28,20 +28,14 @@ McMaster University considers post-doctoral fellows to be an integral part of th
 The application materials and/or any additional questions regarding the position should be sent via e-mail bearing the subject line 'Candidate Name-Year of PhD-as PDF-2024-25' to:
 
 Ashirbani Saha, PhD, SMIEEE  
-
 Assistant Professor and BRIGHT Run Breast Cancer Learning Health System Chair, Department of Oncology  
-
 Associate Member, School of Biomedical Engineering  
-
 Rm-130, Juravinski Hospital G(60) Wing  
-
 711 Concession Street, Hamilton, ON L8V 1C3   
-
 McMaster University, Canada  
-
 Phone - 1-905-527-2299 extn. 42718  
-
 Email: sahaa16@mcmaster.ca
 
 **Steps after application**
-* Only candidates short-listed for this position will be contacted for interview. There could be multiple interviews for final selection.
+* Only candidates short-listed for this position will be contacted for a presentation and interview.
+* There could be multiple interviews for the final selection.
