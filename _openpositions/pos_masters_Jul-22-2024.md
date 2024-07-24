@@ -27,7 +27,7 @@ McMaster University offers several opportunities for graduate students. For furt
 * A pdf of copy of submission(s) (in case not published)
 * Names and contact information of three referees.
 
-The application materials and/or any additional questions regarding the position should be sent via e-mail bearing the subject line '\<Candidate Name-Year of PhD\>-as PDF-2024-25' to:
+The application materials and/or any additional questions regarding the position should be sent via e-mail bearing the subject line '\<Candidate Name-Year of Bachelor Degree\>-as MASc-2024-25' to:
 
 Ashirbani Saha, PhD, SMIEEE<br>
 Assistant Professor and BRIGHT Run Breast Cancer Learning Health System Chair, Department of Oncology<br>
