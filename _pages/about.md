@@ -16,11 +16,14 @@ I hold associate memberships with the [School of Biomedical Engineering](https:/
 
 My research, learning, and teaching focus on Artificial Intelligence (AI) for Healthcare with an emphasis on advanced analytics related to Breast Cancer. While leading my own research projects, I collaborate with my colleagues and fellow researchers in a variety of topics that relate to advances in healthcare research propelled by AI.
 
-Summary of my training so far:
+Education, Training, and Experience:
 ======
-I am trained in Electronics and Telecommunication Engineering (B. E., 2006) from the Indian Institute of Engineering, Science, and Technology, (IIEST), Shibpore, India. I worked for almost 2.5 years as a SAP consultant in PWC, India. 
-I did my graduate studies (M.A.Sc, 2010 and Ph.D., 2015) in the Department of Electrical and Computer Engineering, University of Windsor, Canada. Following several postdoctoral trainings at the University of Windsor (2015), Duke University (2015 - 2018), and Unity Health Toronto (2018-2021), I joined McMaster Oncology in 2021.
-It was during my postdoctoral training at Duke, I started to learn to work with medical data. 
-
+I am trained in Electronics and Telecommunication Engineering (B. E., 2006) from the Indian Institute of Engineering, Science, and Technology, (IIEST), Shibpore, India.<br> 
+I worked for almost 2.5 years as a SAP consultant in PricewaterhouseCoopers, India. 
+I did my graduate studies (M.A.Sc, 2010 and Ph.D., 2015) in the Department of Electrical and Computer Engineering, University of Windsor, Canada with a focus in image processing and computer vision. 
+I underwent three subsequent postdoctoral trainings:
+* At the University of Windsor, Canada under Dr. Q.M.Jonathan Wu (2015) in computer vision and image processing.
+* At Duke University, USA under Dr. Maciej A. Mazurowski in medical imaging applications (2015 - 2018).
+* At Unity Health Toronto (2018-2021) under Dr Michael Cusimano and Dr. Alireza Sadeghian in neuroimaging and in more general health data analytics (2018 - 2021).
 I continue to learn in my current position from all the resources that I find relevant to my professional interests. 
 
