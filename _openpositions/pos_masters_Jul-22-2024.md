@@ -1,6 +1,6 @@
 ---
 title: "Opportunity for Master's Candidates"
-excerpt: 'We are looking for 1-2 Master's candidates to work on medical imaging and health data analysis related problems. The details of this position can be found by clicking on the link provided above.'
+excerpt: "We are looking for 1-2 Master's candidates to work on medical imaging and health data analysis related problems. The details of this position can be found by clicking on the link provided above."
 ---
 **About us:** <br>
 McMaster University is ranked among world's top universities and it ranks fourth in Canada. Ashirbani Saha, Assistant Professor in the Department of Oncology at McMaster University is looking for a Master's Candidate to participate in federally-funded research program focused on development of medical imaging applications and solutions based on recent progress in AI.
