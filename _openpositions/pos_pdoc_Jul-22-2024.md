@@ -1,5 +1,6 @@
 ---
 title: "Opportunity for a Postdoctoral Fellow"
+excerpt: 'We are looking for 1 Postdoctoral Fellow to work on medical imaging related problems. The details of this position can be found by clicking on link provided above.'
 ---
 **About us:** <br>
 McMaster University is ranked among world's top universities and it ranks fourth in Canada. The Faculty of Health Sciences (FHS) at McMaster University is considered the birthplace of evidence-based medicine (EBM). According to the British Medical Journal, EBM is one of the most important medical advances in the past 150 years. The Department of Oncology in the FHS at McMaster are committed to performing research that makes a difference to people living with cancer.
