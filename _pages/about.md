@@ -24,7 +24,7 @@ I did my graduate studies (M.A.Sc, 2010 and Ph.D., 2015) in the Department of El
 I underwent three subsequent postdoctoral trainings:
 * At the University of Windsor, Canada under Dr. Q.M.Jonathan Wu (2015) in computer vision and image processing.
 * At Duke University, USA under Dr. Maciej A. Mazurowski in medical imaging applications (2015 - 2018).
-* At Unity Health Toronto (2018-2021) under Dr Michael Cusimano and Dr. Alireza Sadeghian in neuroimaging and in more general health data analytics (2018 - 2021).
+* At Unity Health Toronto under Dr Michael Cusimano and Dr. Alireza Sadeghian in neuroimaging and in more general health data analytics (2018 - 2021).
   
 I continue to learn in my current position from all the resources that I find relevant to my professional interests. 
 
