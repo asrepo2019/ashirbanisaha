@@ -20,7 +20,7 @@ Education, Training, and Experience:
 ======
 I am trained in Electronics and Telecommunication Engineering (B. E., 2006) from the Indian Institute of Engineering, Science, and Technology, (IIEST), Shibpur, India.<br> 
 I worked for almost 2.5 years as a SAP consultant in PricewaterhouseCoopers, India.<br>  
-I did my graduate studies (M.A.Sc, 2010 and Ph.D., 2015) in the Department of Electrical and Computer Engineering, University of Windsor, Canada with a focus in image processing and computer vision.<br>  
+I did my graduate studies (M.A.Sc., 2010 and Ph.D., 2015) in the Department of Electrical and Computer Engineering, University of Windsor, Canada with a focus in image processing and computer vision.<br>  
 I underwent three subsequent postdoctoral trainings:
 * At the University of Windsor, Canada under Dr. Q.M.Jonathan Wu (2015) in computer vision and image processing.
 * At Duke University, USA under Dr. Maciej A. Mazurowski in medical imaging applications (2015 - 2018).
