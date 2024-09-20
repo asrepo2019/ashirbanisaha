@@ -1,6 +1,7 @@
 ---
 title: "Past Team Members (Name, role in my team, affiliation; my role)"
 ---
+* Muhammed Haseeb Aslam, Research Volunteer, B. Eng. Candidate, McMaster University; Project supervisor 
 * Yousam Asham, Capstone Project Student, BHSc Candidate in Integrated Biomedical Engineering and Heath Sciences Program, McMaster University; Capstone Project Stakeholder 
 * Daniele Di Cesare, Capstone Project Student, BHSc Candidate in Integrated Biomedical Engineering and Heath Sciences Program, McMaster University; Capstone Project Stakeholder 
 * Noel Zacharia, Capstone Project Student, BHSc Candidate in Integrated Biomedical Engineering and Heath Sciences Program, McMaster University; Capstone Project Stakeholder 
