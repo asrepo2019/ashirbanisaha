@@ -25,7 +25,7 @@ Following are the must-haves for this position:<br>
 McMaster University considers post-doctoral fellows to be an integral part of the University and its mission. The details of McMaster's postdoctoral policy can be found [here](https://gs.mcmaster.ca/app/uploads/2019/11/postdocfellows_policy.pdf).
 
 **How to apply?** <br>
-Following the link: https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=65049&PostingSeq=1
+Following the [link](https://careers.mcmaster.ca/psp/prcsprd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=65049&PostingSeq=1)
 
 You submission documents/information should include:
 * A cover letter (upto 500 words) indicating why how would align with the qualifications for this position.
