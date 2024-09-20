@@ -22,7 +22,7 @@ The Master's student will be required to apply his/her technical skills towards 
 McMaster University offers several opportunities for graduate students. For further details, please visit the [link](https://gs.mcmaster.ca/app/uploads/2019/11/postdocfellows_policy.pdf).
 
 **Applications Materials:**<br>
-* A cover letter (upto 500 words) indicating you research interest and role in your publications/submissions.
+* A cover letter (upto 500 words) indicating your research interest and role in your publications/submissions.
 * A CV (including all publications/submissions).
 * Transcripts.
 * A pdf of copy of submission(s) (in case not published)
