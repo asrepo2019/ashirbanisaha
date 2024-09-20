@@ -25,7 +25,7 @@ McMaster University offers several opportunities for graduate students. For furt
 * A cover letter (upto 500 words) indicating your research interest and role in your publications/submissions.
 * A CV (including all publications/submissions).
 * Transcripts.
-* A pdf of copy of submission(s) (in case not published)
+* A pdf of copy of submission(s) (if not published).
 * Names and contact information of three referees.
 
 The application materials and/or any additional questions regarding the position should be sent via e-mail bearing the subject line '\<Candidate Name-Year of Bachelor Degree\>-as MASc' to:
